@@ -37,3 +37,11 @@
     color: black;
     
 }
+
+#imagen{
+    padding: 0 40px;
+}
+
+.posicion{
+    margin-left: 10%;
+}
